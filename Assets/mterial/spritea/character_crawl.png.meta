@@ -1,0 +1,1389 @@
+fileFormatVersion: 2
+guid: 05b3950359c6fef45bf528d394415402
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_crawl_0
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1529
+        width: 134
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655f834e3f4f1f144931702dbc609912
+      internalID: 1263468914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_crawl_1
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1529
+        width: 133
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6cf1a05c102a648ab8b4824753231e
+      internalID: 1685830744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_crawl_2
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1533
+        width: 134
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc5ab3df45e6b04eacd004815ecd4b9
+      internalID: 1258035810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_crawl_3
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 1533
+        width: 130
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e519f447f8ed846839ab02ca3b835d
+      internalID: -422303491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_crawl_4
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 1533
+        width: 135
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9896ad64f18f1a94d850b7c4f02205d0
+      internalID: -1746942804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_crawl_5
+      rect:
+        serializedVersion: 2
+        x: 1910
+        y: 1535
+        width: 136
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84ad7a50bf4e1d4aa45d443f24a5e60
+      internalID: 1441775734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_crawl_6
+      rect:
+        serializedVersion: 2
+        x: 2270
+        y: 1531
+        width: 137
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad366968c9a76514e970a28603992634
+      internalID: -1350123080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_crawl_7
+      rect:
+        serializedVersion: 2
+        x: 2630
+        y: 1529
+        width: 137
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad9b048768ff5554188ecec6bab5d43f
+      internalID: 1633317738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_crawl_8
+      rect:
+        serializedVersion: 2
+        x: 2989
+        y: 1527
+        width: 138
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7baeb364a7858f14fa962d2cc73dcd37
+      internalID: -1089157930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_crawl_9
+      rect:
+        serializedVersion: 2
+        x: 3349
+        y: 1527
+        width: 139
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3770b0f4d40524b9eb42bd5956ad71
+      internalID: -2143996316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_crawl_10
+      rect:
+        serializedVersion: 2
+        x: 3711
+        y: 1527
+        width: 137
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fbc9132568239942a6f0c623a785e00
+      internalID: 1320739316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_crawl_11
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1230
+        width: 138
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44f3cfdda052c24cab897fcdc0d9ba3
+      internalID: -821521648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_crawl_12
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1232
+        width: 135
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27bada540cec3f645afa5b351e1c7f20
+      internalID: -116432230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_crawl_13
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 1234
+        width: 132
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd7c830349295f408daa1ef67e67cb9
+      internalID: 818643529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_crawl_14
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 1234
+        width: 133
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b9ea8440244a941930d232ffd8b08e
+      internalID: 1772803077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_crawl_15
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 1234
+        width: 133
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6938177c7077ab4888888b4b2f82d79
+      internalID: -664816460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_crawl_16
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 1232
+        width: 134
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b9018bff76ead42b68e3e475e21f8e
+      internalID: 991465800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_crawl_17
+      rect:
+        serializedVersion: 2
+        x: 2274
+        y: 1230
+        width: 133
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90299bedb1ddac048ab1e6bd0238a736
+      internalID: -1262285434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_crawl_18
+      rect:
+        serializedVersion: 2
+        x: 2634
+        y: 1228
+        width: 133
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3e1a45896ad24479a6c524b81890ce
+      internalID: -77207620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_crawl_19
+      rect:
+        serializedVersion: 2
+        x: 2999
+        y: 1228
+        width: 133
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168c99e6943a62f4ca274741af60b83a
+      internalID: -925232414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_crawl_20
+      rect:
+        serializedVersion: 2
+        x: 3361
+        y: 1226
+        width: 131
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e097d4325f0470049893c74639c77a9c
+      internalID: 1482307077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_crawl_21
+      rect:
+        serializedVersion: 2
+        x: 3720
+        y: 1226
+        width: 132
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa8ee1818f1ebe43b06849883b4d4de
+      internalID: -2004849545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_crawl_22
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 924
+        width: 133
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889e9c20e34df7448a7df7cf5b10dc2e
+      internalID: -1324308917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_crawl_23
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 924
+        width: 135
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11aee9a6a38a8749a79d9276a1693a1
+      internalID: 1110745423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_crawl_24
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 924
+        width: 132
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7456de813cb41f41a4638c48f28cecf
+      internalID: -1170218937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_crawl_25
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 924
+        width: 133
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59f2efd5007e94438c758d86c93c000
+      internalID: 1811565183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_crawl_26
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 924
+        width: 132
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140fc53ba4ba9e744bd0c1be7b22d6ad
+      internalID: 847889684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_crawl_27
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 926
+        width: 132
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c6f5db6d420884faace8bc588971fb
+      internalID: 1329012673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_crawl_28
+      rect:
+        serializedVersion: 2
+        x: 2278
+        y: 926
+        width: 131
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492eec652e22d624492e61499fc5d23b
+      internalID: -357995125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_crawl_29
+      rect:
+        serializedVersion: 2
+        x: 2637
+        y: 926
+        width: 132
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bcdcf278e39d334489e02fd75ceca7d
+      internalID: -1938732752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_crawl_30
+      rect:
+        serializedVersion: 2
+        x: 2999
+        y: 926
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0edb709034428ee429693ee089d326bd
+      internalID: 330295241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_crawl_31
+      rect:
+        serializedVersion: 2
+        x: 3359
+        y: 924
+        width: 129
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da0007002b01c648ad8b8a40da99316
+      internalID: -687648730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_crawl_32
+      rect:
+        serializedVersion: 2
+        x: 3720
+        y: 924
+        width: 128
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50bda94e50671cc408282e8f7f110775
+      internalID: 1272995091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_crawl_33
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 623
+        width: 126
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375ed16ecc4d6a64b87951c6f721a828
+      internalID: -392304965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_crawl_34
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 624
+        width: 128
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3add4303f09ed9747b1354f94795f4fa
+      internalID: -139496217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_crawl_35
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 626
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb13b00265807e346a647dd7a0275c12
+      internalID: 1659173780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_crawl_36
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 626
+        width: 131
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab344db4564c4a479043c1ad360863e
+      internalID: 825075421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_crawl_37
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 626
+        width: 132
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e5a07e38c2b9534792542ca3506e9ab
+      internalID: 1071721080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_crawl_38
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 617
+        width: 134
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b78781fac5e93e4ab3038252f7b062a
+      internalID: 1644182618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_crawl_39
+      rect:
+        serializedVersion: 2
+        x: 2274
+        y: 617
+        width: 133
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f600d26f575a3b44813f2ffaa492e16
+      internalID: -1864409494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_crawl_40
+      rect:
+        serializedVersion: 2
+        x: 2634
+        y: 617
+        width: 135
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3058feeecc421488e4d03cb6b3d3ec
+      internalID: 351653448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_crawl_41
+      rect:
+        serializedVersion: 2
+        x: 2995
+        y: 621
+        width: 134
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09fa94d7ecb0f6b479e0711635f33a55
+      internalID: 1056738190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_crawl_42
+      rect:
+        serializedVersion: 2
+        x: 3355
+        y: 623
+        width: 133
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe198f37f9408b47bbb85949a09051e
+      internalID: -466459277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_crawl_43
+      rect:
+        serializedVersion: 2
+        x: 3716
+        y: 623
+        width: 130
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c60fa91013472341a079d0c37181d10
+      internalID: -114772789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_crawl_44
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 323
+        width: 136
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff067900f0700a46bd6af84bc006811
+      internalID: 1170776856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_crawl_45
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 323
+        width: 135
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7dd2928bb67f842a0a70812923a63e
+      internalID: -539106304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_crawl_46
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 321
+        width: 136
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52dcc8dc39a68e409f56cc7ef4373b8
+      internalID: -993129367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_crawl_47
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 321
+        width: 135
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7993213120bfcd44843763d2024b1ec
+      internalID: 1952673646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_crawl_48
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 321
+        width: 137
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26a820b8d4c2f8479b02e9f62f1ddcd
+      internalID: -629338012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_crawl_49
+      rect:
+        serializedVersion: 2
+        x: 1910
+        y: 323
+        width: 138
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28340a575abc3dc4cb3d425eae1aabe5
+      internalID: -896512087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_crawl_50
+      rect:
+        serializedVersion: 2
+        x: 2270
+        y: 323
+        width: 137
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63672b3ed95b16e4984e3f2a566b140f
+      internalID: 156443411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_crawl_51
+      rect:
+        serializedVersion: 2
+        x: 2630
+        y: 323
+        width: 137
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e5be98982147084eb267be4db1c55ef
+      internalID: 1238320004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_crawl_52
+      rect:
+        serializedVersion: 2
+        x: 2989
+        y: 323
+        width: 136
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4842834b27d894d930fdf2fc499d6f
+      internalID: 1562939583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_crawl_53
+      rect:
+        serializedVersion: 2
+        x: 3355
+        y: 319
+        width: 131
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b5e6582be02c041b2a54e5b2d0aa86
+      internalID: 1288971201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_crawl_54
+      rect:
+        serializedVersion: 2
+        x: 3714
+        y: 317
+        width: 132
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9585843fdc8bc4cbdc66683d04dab3
+      internalID: 64995920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_crawl_55
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 17
+        width: 134
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24e1bdb5a123e34395fe191153d25c6
+      internalID: -1895946887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_crawl_56
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 15
+        width: 133
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416e0d2151fdc5441929d23eefe5de6c
+      internalID: 28542114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      character_crawl_47: 1952673646
+      character_crawl_45: -539106304
+      character_crawl_34: -139496217
+      character_crawl_22: -1324308917
+      character_crawl_1: 1685830744
+      character_crawl_4: -1746942804
+      character_crawl_6: -1350123080
+      character_crawl_10: 1320739316
+      character_crawl_28: -357995125
+      character_crawl_49: -896512087
+      character_crawl_7: 1633317738
+      character_crawl_30: 330295241
+      character_crawl_27: 1329012673
+      character_crawl_26: 847889684
+      character_crawl_19: -925232414
+      character_crawl_52: 1562939583
+      character_crawl_48: -629338012
+      character_crawl_55: -1895946887
+      character_crawl_53: 1288971201
+      character_crawl_0: 1263468914
+      character_crawl_29: -1938732752
+      character_crawl_36: 825075421
+      character_crawl_54: 64995920
+      character_crawl_32: 1272995091
+      character_crawl_39: -1864409494
+      character_crawl_8: -1089157930
+      character_crawl_38: 1644182618
+      character_crawl_46: -993129367
+      character_crawl_17: -1262285434
+      character_crawl_24: -1170218937
+      character_crawl_33: -392304965
+      character_crawl_16: 991465800
+      character_crawl_40: 351653448
+      character_crawl_15: -664816460
+      character_crawl_2: 1258035810
+      character_crawl_43: -114772789
+      character_crawl_56: 28542114
+      character_crawl_23: 1110745423
+      character_crawl_41: 1056738190
+      character_crawl_44: 1170776856
+      character_crawl_21: -2004849545
+      character_crawl_3: -422303491
+      character_crawl_14: 1772803077
+      character_crawl_12: -116432230
+      character_crawl_42: -466459277
+      character_crawl_5: 1441775734
+      character_crawl_35: 1659173780
+      character_crawl_18: -77207620
+      character_crawl_31: -687648730
+      character_crawl_9: -2143996316
+      character_crawl_20: 1482307077
+      character_crawl_50: 156443411
+      character_crawl_37: 1071721080
+      character_crawl_25: 1811565183
+      character_crawl_13: 818643529
+      character_crawl_11: -821521648
+      character_crawl_51: 1238320004
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

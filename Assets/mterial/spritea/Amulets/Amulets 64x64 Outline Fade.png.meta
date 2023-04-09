@@ -1,0 +1,2503 @@
+fileFormatVersion: 2
+guid: 3a3240da55cc60c4cb69e882425a6054
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 447
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: -23}
+        - {x: -6.5, y: -30}
+        - {x: -18.5, y: 15}
+        - {x: -22, y: 1}
+        - {x: -1.5, y: 30}
+        - {x: 16.5, y: 13}
+        - {x: 22, y: 21}
+        - {x: 22, y: 29}
+        - {x: 22, y: 30}
+        - {x: -22, y: 30}
+        - {x: -22, y: -30}
+        - {x: 18.5, y: -30}
+        - {x: 22, y: -20}
+        - {x: 22, y: 3}
+        - {x: 12.5, y: 12}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c0ac946eb0692458daad5378b5de67
+      internalID: -1417779081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 448
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: -23}
+        - {x: -6.5, y: -30}
+        - {x: -18.5, y: 15}
+        - {x: -22, y: 1}
+        - {x: -1.5, y: 30}
+        - {x: 16.5, y: 13}
+        - {x: 22, y: 21}
+        - {x: 22, y: 29}
+        - {x: 22, y: 30}
+        - {x: -22, y: 30}
+        - {x: -22, y: -30}
+        - {x: 18.5, y: -30}
+        - {x: 22, y: -20}
+        - {x: 22, y: 3}
+        - {x: 12.5, y: 12}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bbb7229cde58dc4f8665e56a152e39e
+      internalID: 758926072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_2
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 447
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: -23}
+        - {x: -6.5, y: -30}
+        - {x: -18.5, y: 15}
+        - {x: -22, y: 1}
+        - {x: -1.5, y: 30}
+        - {x: 16.5, y: 13}
+        - {x: 22, y: 21}
+        - {x: 22, y: 29}
+        - {x: 22, y: 30}
+        - {x: -22, y: 30}
+        - {x: -22, y: -30}
+        - {x: 18.5, y: -30}
+        - {x: 22, y: -20}
+        - {x: 22, y: 3}
+        - {x: 12.5, y: 12}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a377e2f61c509347a669ce24b50a15f
+      internalID: -1217842663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_3
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 451
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: -23}
+        - {x: -6.5, y: -29}
+        - {x: -18.5, y: 15}
+        - {x: -22, y: 1}
+        - {x: -1.5, y: 29}
+        - {x: 16.5, y: 13}
+        - {x: 22, y: 21}
+        - {x: 22, y: 29}
+        - {x: 22, y: 29}
+        - {x: -22, y: 29}
+        - {x: -22, y: -29}
+        - {x: 18.5, y: -29}
+        - {x: 22, y: -20}
+        - {x: 22, y: 3}
+        - {x: 12.5, y: 12}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05517667dd7de04ab69f0e901c28633
+      internalID: 1957755003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_4
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 450
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: -23}
+        - {x: -6.5, y: -29.5}
+        - {x: -18.5, y: 15}
+        - {x: -22, y: 1}
+        - {x: -1.5, y: 29.5}
+        - {x: 16.5, y: 13}
+        - {x: 22, y: 21}
+        - {x: 22, y: 29}
+        - {x: 22, y: 29.5}
+        - {x: -22, y: 29.5}
+        - {x: -22, y: -29.5}
+        - {x: 18.5, y: -29.5}
+        - {x: 22, y: -20}
+        - {x: 22, y: 3}
+        - {x: 12.5, y: 12}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d808b07a73599ef4290d57ef87a20c5d
+      internalID: 1183565820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_5
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 449
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: -23}
+        - {x: -6.5, y: -30}
+        - {x: -18.5, y: 15}
+        - {x: -22, y: 1}
+        - {x: -1.5, y: 30}
+        - {x: 16.5, y: 13}
+        - {x: 22, y: 21}
+        - {x: 22, y: 29}
+        - {x: 22, y: 30}
+        - {x: -22, y: 30}
+        - {x: -22, y: -30}
+        - {x: 18.5, y: -30}
+        - {x: 22, y: -20}
+        - {x: 22, y: 3}
+        - {x: 12.5, y: 12}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66d4da461641c14d993eff5acb350db
+      internalID: 1817980601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_6
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 449
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: -23}
+        - {x: -6.5, y: -30}
+        - {x: -18.5, y: 15}
+        - {x: -22, y: 1}
+        - {x: -1.5, y: 30}
+        - {x: 16.5, y: 13}
+        - {x: 22, y: 21}
+        - {x: 22, y: 29}
+        - {x: 22, y: 30}
+        - {x: -22, y: 30}
+        - {x: -22, y: -30}
+        - {x: 18.5, y: -30}
+        - {x: 22, y: -20}
+        - {x: 22, y: 3}
+        - {x: 12.5, y: 12}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85711eeb4a87e14ab99b2b9082a4793
+      internalID: -53418429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_7
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 452
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: -23}
+        - {x: -6.5, y: -28.5}
+        - {x: -18.5, y: 15}
+        - {x: -22, y: 1}
+        - {x: -1.5, y: 28.5}
+        - {x: 16.5, y: 13}
+        - {x: 22, y: 21}
+        - {x: 22, y: 28.5}
+        - {x: 22, y: 28.5}
+        - {x: -22, y: 28.5}
+        - {x: -22, y: -28.5}
+        - {x: 18.5, y: -28.5}
+        - {x: 22, y: -20}
+        - {x: 22, y: 3}
+        - {x: 12.5, y: 12}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863de24ddf3ac06419fb50e3b847b43a
+      internalID: -978514645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_8
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 390
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: -23}
+        - {x: -6.5, y: -27}
+        - {x: -18.5, y: 15}
+        - {x: -22, y: 1}
+        - {x: -1.5, y: 27}
+        - {x: 16.5, y: 13}
+        - {x: 22, y: 21}
+        - {x: 22, y: 27}
+        - {x: 22, y: 27}
+        - {x: -22, y: 27}
+        - {x: -22, y: -27}
+        - {x: 18.5, y: -27}
+        - {x: 22, y: -20}
+        - {x: 22, y: 3}
+        - {x: 12.5, y: 12}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9e63f2c3100bc4c805b2acf1c29a9e
+      internalID: -2047828058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_9
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 389
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: -23}
+        - {x: -6.5, y: -27.5}
+        - {x: -18.5, y: 15}
+        - {x: -22, y: 1}
+        - {x: -1.5, y: 27.5}
+        - {x: 16.5, y: 13}
+        - {x: 22, y: 21}
+        - {x: 22, y: 27.5}
+        - {x: 22, y: 27.5}
+        - {x: -22, y: 27.5}
+        - {x: -22, y: -27.5}
+        - {x: 18.5, y: -27.5}
+        - {x: 22, y: -20}
+        - {x: 22, y: 3}
+        - {x: 12.5, y: 12}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6535d937391d6f438f312fc810988a1
+      internalID: -397801479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_10
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 385
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: -23}
+        - {x: -6.5, y: -29.5}
+        - {x: -18.5, y: 15}
+        - {x: -22, y: 1}
+        - {x: -1.5, y: 29.5}
+        - {x: 16.5, y: 13}
+        - {x: 22, y: 21}
+        - {x: 22, y: 29}
+        - {x: 22, y: 29.5}
+        - {x: -22, y: 29.5}
+        - {x: -22, y: -29.5}
+        - {x: 18.5, y: -29.5}
+        - {x: 22, y: -20}
+        - {x: 22, y: 3}
+        - {x: 12.5, y: 12}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd62cb83e371854cb091d10cb568854
+      internalID: -475142677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_11
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 386
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: -23}
+        - {x: -6.5, y: -29}
+        - {x: -18.5, y: 15}
+        - {x: -22, y: 1}
+        - {x: -1.5, y: 29}
+        - {x: 16.5, y: 13}
+        - {x: 22, y: 21}
+        - {x: 22, y: 29}
+        - {x: 22, y: 29}
+        - {x: -22, y: 29}
+        - {x: -22, y: -29}
+        - {x: 18.5, y: -29}
+        - {x: 22, y: -20}
+        - {x: 22, y: 3}
+        - {x: 12.5, y: 12}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191e94162e0e99544bf5543f35be9727
+      internalID: -1677946744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_12
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 386
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: -23}
+        - {x: -6.5, y: -29}
+        - {x: -18.5, y: 15}
+        - {x: -22, y: 1}
+        - {x: -1.5, y: 29}
+        - {x: 16.5, y: 13}
+        - {x: 22, y: 21}
+        - {x: 22, y: 29}
+        - {x: 22, y: 29}
+        - {x: -22, y: 29}
+        - {x: -22, y: -29}
+        - {x: 18.5, y: -29}
+        - {x: 22, y: -20}
+        - {x: 22, y: 3}
+        - {x: 12.5, y: 12}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb750df7c7926c4c9e867175a97da8e
+      internalID: 1728139154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_13
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 386
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: -23}
+        - {x: -6.5, y: -29}
+        - {x: -18.5, y: 15}
+        - {x: -22, y: 1}
+        - {x: -1.5, y: 29}
+        - {x: 16.5, y: 13}
+        - {x: 22, y: 21}
+        - {x: 22, y: 29}
+        - {x: 22, y: 29}
+        - {x: -22, y: 29}
+        - {x: -22, y: -29}
+        - {x: 18.5, y: -29}
+        - {x: 22, y: -20}
+        - {x: 22, y: 3}
+        - {x: 12.5, y: 12}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c926cbaadfb3b4b89e80607efcdf4b
+      internalID: -2131077153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_14
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 394
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: -23}
+        - {x: -6.5, y: -25}
+        - {x: -18.5, y: 15}
+        - {x: -22, y: 1}
+        - {x: -1.5, y: 25}
+        - {x: 16.5, y: 13}
+        - {x: 22, y: 21}
+        - {x: 22, y: 25}
+        - {x: 22, y: 25}
+        - {x: -22, y: 25}
+        - {x: -22, y: -25}
+        - {x: 18.5, y: -25}
+        - {x: 22, y: -20}
+        - {x: 22, y: 3}
+        - {x: 12.5, y: 12}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae97b49c9dae8294985375dc376a931b
+      internalID: 258675725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_15
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 397
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: -23}
+        - {x: -6.5, y: -23.5}
+        - {x: -18.5, y: 15}
+        - {x: -22, y: 1}
+        - {x: -1.5, y: 23.5}
+        - {x: 16.5, y: 13}
+        - {x: 22, y: 21}
+        - {x: 22, y: 23.5}
+        - {x: 22, y: 23.5}
+        - {x: -22, y: 23.5}
+        - {x: -22, y: -23.5}
+        - {x: 18.5, y: -23.5}
+        - {x: 22, y: -20}
+        - {x: 22, y: 3}
+        - {x: 12.5, y: 12}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97606eb3e118a0e4982755b4122d9ad5
+      internalID: -1410881569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_16
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 323
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: -23}
+        - {x: -6.5, y: -28.5}
+        - {x: -18.5, y: 15}
+        - {x: -22, y: 1}
+        - {x: -1.5, y: 28.5}
+        - {x: 16.5, y: 13}
+        - {x: 22, y: 21}
+        - {x: 22, y: 28.5}
+        - {x: 22, y: 28.5}
+        - {x: -22, y: 28.5}
+        - {x: -22, y: -28.5}
+        - {x: 18.5, y: -28.5}
+        - {x: 22, y: -20}
+        - {x: 22, y: 3}
+        - {x: 12.5, y: 12}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31783891cd56f484293428944c41dfad
+      internalID: -1948653859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_17
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 325
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.5, y: -23}
+        - {x: -6.5, y: -27.5}
+        - {x: -18.5, y: 15}
+        - {x: -23.5, y: 1}
+        - {x: -1.5, y: 27.5}
+        - {x: 16.5, y: 13}
+        - {x: 23.5, y: 21}
+        - {x: 23.5, y: 27.5}
+        - {x: 22.5, y: 27.5}
+        - {x: -23.5, y: 27.5}
+        - {x: -23.5, y: -27.5}
+        - {x: 18.5, y: -27.5}
+        - {x: 23.5, y: -20}
+        - {x: 23.5, y: 3}
+        - {x: 12.5, y: 12}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac7834d16940944aa0d078c3279e6ab
+      internalID: 2025449531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_18
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 331
+        width: 58
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.5, y: -23}
+        - {x: -6.5, y: -24.5}
+        - {x: -18.5, y: 15}
+        - {x: -23.5, y: 1}
+        - {x: -1.5, y: 24.5}
+        - {x: 16.5, y: 13}
+        - {x: 23.5, y: 21}
+        - {x: 23.5, y: 24.5}
+        - {x: 22.5, y: 24.5}
+        - {x: -23.5, y: 24.5}
+        - {x: -23.5, y: -24.5}
+        - {x: 18.5, y: -24.5}
+        - {x: 23.5, y: -20}
+        - {x: 23.5, y: 3}
+        - {x: 12.5, y: 12}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318500f98d7d6804b9f704902dce11dc
+      internalID: -917671350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_19
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 323
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: -23}
+        - {x: -6.5, y: -28.5}
+        - {x: -18.5, y: 15}
+        - {x: -23, y: 1}
+        - {x: -1.5, y: 28.5}
+        - {x: 16.5, y: 13}
+        - {x: 23, y: 21}
+        - {x: 23, y: 28.5}
+        - {x: 22.5, y: 28.5}
+        - {x: -23, y: 28.5}
+        - {x: -23, y: -28.5}
+        - {x: 18.5, y: -28.5}
+        - {x: 23, y: -20}
+        - {x: 23, y: 3}
+        - {x: 12.5, y: 12}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c96e153087a40bf4ababe9b6425c2dec
+      internalID: -2038777598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_20
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 326
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: -23}
+        - {x: -6.5, y: -27}
+        - {x: -18.5, y: 15}
+        - {x: -23, y: 1}
+        - {x: -1.5, y: 27}
+        - {x: 16.5, y: 13}
+        - {x: 23, y: 21}
+        - {x: 23, y: 27}
+        - {x: 22.5, y: 27}
+        - {x: -23, y: 27}
+        - {x: -23, y: -27}
+        - {x: 18.5, y: -27}
+        - {x: 23, y: -20}
+        - {x: 23, y: 3}
+        - {x: 12.5, y: 12}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc9abd501313d34dae36856669e003e
+      internalID: -1056601640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_21
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 323
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: -23}
+        - {x: -6.5, y: -28.5}
+        - {x: -18.5, y: 15}
+        - {x: -23, y: 1}
+        - {x: -1.5, y: 28.5}
+        - {x: 16.5, y: 13}
+        - {x: 23, y: 21}
+        - {x: 23, y: 28.5}
+        - {x: 22.5, y: 28.5}
+        - {x: -23, y: 28.5}
+        - {x: -23, y: -28.5}
+        - {x: 18.5, y: -28.5}
+        - {x: 23, y: -20}
+        - {x: 23, y: 3}
+        - {x: 12.5, y: 12}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88c7966d2b8e1846859e83688feb612
+      internalID: -1109606259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_22
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 319
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: -23}
+        - {x: -6.5, y: -30}
+        - {x: -18.5, y: 15}
+        - {x: -22, y: 1}
+        - {x: -1.5, y: 30}
+        - {x: 16.5, y: 13}
+        - {x: 22, y: 21}
+        - {x: 22, y: 29}
+        - {x: 22, y: 30}
+        - {x: -22, y: 30}
+        - {x: -22, y: -30}
+        - {x: 18.5, y: -30}
+        - {x: 22, y: -20}
+        - {x: 22, y: 3}
+        - {x: 12.5, y: 12}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4054d1ff8d77adb42b5a3567bf396b96
+      internalID: 64832269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_23
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 326
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: -23}
+        - {x: -6.5, y: -27}
+        - {x: -18.5, y: 15}
+        - {x: -22, y: 1}
+        - {x: -1.5, y: 27}
+        - {x: 16.5, y: 13}
+        - {x: 22, y: 21}
+        - {x: 22, y: 27}
+        - {x: 22, y: 27}
+        - {x: -22, y: 27}
+        - {x: -22, y: -27}
+        - {x: 18.5, y: -27}
+        - {x: 22, y: -20}
+        - {x: 22, y: 3}
+        - {x: 12.5, y: 12}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50451b7a4b8e80e45af9889f3a443c32
+      internalID: -299758745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_24
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 265
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: -23}
+        - {x: -6.5, y: -25.5}
+        - {x: -18.5, y: 15}
+        - {x: -22, y: 1}
+        - {x: -1.5, y: 25.5}
+        - {x: 16.5, y: 13}
+        - {x: 22, y: 21}
+        - {x: 22, y: 25.5}
+        - {x: 22, y: 25.5}
+        - {x: -22, y: 25.5}
+        - {x: -22, y: -25.5}
+        - {x: 18.5, y: -25.5}
+        - {x: 22, y: -20}
+        - {x: 22, y: 3}
+        - {x: 12.5, y: 12}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad2dc0a2cf0e2a4db9b50590cb64dc2
+      internalID: 956388408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_25
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 265
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: -23}
+        - {x: -6.5, y: -25.5}
+        - {x: -18.5, y: 15}
+        - {x: -22, y: 1}
+        - {x: -1.5, y: 25.5}
+        - {x: 16.5, y: 13}
+        - {x: 22, y: 21}
+        - {x: 22, y: 25.5}
+        - {x: 22, y: 25.5}
+        - {x: -22, y: 25.5}
+        - {x: -22, y: -25.5}
+        - {x: 18.5, y: -25.5}
+        - {x: 22, y: -20}
+        - {x: 22, y: 3}
+        - {x: 12.5, y: 12}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4a3ba246af1324a96309336a674291
+      internalID: -2102610767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_26
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 265
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: -23}
+        - {x: -6.5, y: -25.5}
+        - {x: -18.5, y: 15}
+        - {x: -22, y: 1}
+        - {x: -1.5, y: 25.5}
+        - {x: 16.5, y: 13}
+        - {x: 22, y: 21}
+        - {x: 22, y: 25.5}
+        - {x: 22, y: 25.5}
+        - {x: -22, y: 25.5}
+        - {x: -22, y: -25.5}
+        - {x: 18.5, y: -25.5}
+        - {x: 22, y: -20}
+        - {x: 22, y: 3}
+        - {x: 12.5, y: 12}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b2d829280307941a8b2259aaf33e4c
+      internalID: -1435743417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_27
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 260
+        width: 50
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.5, y: -23}
+        - {x: -6.5, y: -28}
+        - {x: -18.5, y: 15}
+        - {x: -23.5, y: 1}
+        - {x: -1.5, y: 28}
+        - {x: 16.5, y: 13}
+        - {x: 23.5, y: 21}
+        - {x: 23.5, y: 28}
+        - {x: 22.5, y: 28}
+        - {x: -23.5, y: 28}
+        - {x: -23.5, y: -28}
+        - {x: 18.5, y: -28}
+        - {x: 23.5, y: -20}
+        - {x: 23.5, y: 3}
+        - {x: 12.5, y: 12}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 806a176f73415f14da53f9ec1e366497
+      internalID: -905210361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_28
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 256
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: -23}
+        - {x: -6.5, y: -30}
+        - {x: -18.5, y: 15}
+        - {x: -22, y: 1}
+        - {x: -1.5, y: 30}
+        - {x: 16.5, y: 13}
+        - {x: 22, y: 21}
+        - {x: 22, y: 29}
+        - {x: 22, y: 30}
+        - {x: -22, y: 30}
+        - {x: -22, y: -30}
+        - {x: 18.5, y: -30}
+        - {x: 22, y: -20}
+        - {x: 22, y: 3}
+        - {x: 12.5, y: 12}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40507416bce9bf4ea88614f4b729965
+      internalID: 2052364406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_29
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 256
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: -23}
+        - {x: -6.5, y: -30}
+        - {x: -18.5, y: 15}
+        - {x: -22, y: 1}
+        - {x: -1.5, y: 30}
+        - {x: 16.5, y: 13}
+        - {x: 22, y: 21}
+        - {x: 22, y: 29}
+        - {x: 22, y: 30}
+        - {x: -22, y: 30}
+        - {x: -22, y: -30}
+        - {x: 18.5, y: -30}
+        - {x: 22, y: -20}
+        - {x: 22, y: 3}
+        - {x: 12.5, y: 12}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220b81852afccf44c811ba86f883ab01
+      internalID: -1615372117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_30
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 257
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: -23}
+        - {x: -6.5, y: -29.5}
+        - {x: -18.5, y: 15}
+        - {x: -22, y: 1}
+        - {x: -1.5, y: 29.5}
+        - {x: 16.5, y: 13}
+        - {x: 22, y: 21}
+        - {x: 22, y: 29}
+        - {x: 22, y: 29.5}
+        - {x: -22, y: 29.5}
+        - {x: -22, y: -29.5}
+        - {x: 18.5, y: -29.5}
+        - {x: 22, y: -20}
+        - {x: 22, y: 3}
+        - {x: 12.5, y: 12}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7347f9c8cc3d56b459a6ea952c58657e
+      internalID: 79053236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_31
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 261
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: -23}
+        - {x: -6.5, y: -27.5}
+        - {x: -18.5, y: 15}
+        - {x: -22, y: 1}
+        - {x: -1.5, y: 27.5}
+        - {x: 16.5, y: 13}
+        - {x: 22, y: 21}
+        - {x: 22, y: 27.5}
+        - {x: 22, y: 27.5}
+        - {x: -22, y: 27.5}
+        - {x: -22, y: -27.5}
+        - {x: 18.5, y: -27.5}
+        - {x: 22, y: -20}
+        - {x: 22, y: 3}
+        - {x: 12.5, y: 12}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64567151e4f9300448fffaf011e9ca5a
+      internalID: 1821145957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_32
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 196
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.5, y: -23}
+        - {x: -6.5, y: -28}
+        - {x: -18.5, y: 15}
+        - {x: -23.5, y: 1}
+        - {x: -1.5, y: 28}
+        - {x: 16.5, y: 13}
+        - {x: 23.5, y: 21}
+        - {x: 23.5, y: 28}
+        - {x: 22.5, y: 28}
+        - {x: -23.5, y: 28}
+        - {x: -23.5, y: -28}
+        - {x: 18.5, y: -28}
+        - {x: 23.5, y: -20}
+        - {x: 23.5, y: 3}
+        - {x: 12.5, y: 12}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f956fc92d84aa84fb46897ce7789594
+      internalID: 94762470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_33
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 196
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: -23}
+        - {x: -6.5, y: -28}
+        - {x: -18.5, y: 15}
+        - {x: -22, y: 1}
+        - {x: -1.5, y: 28}
+        - {x: 16.5, y: 13}
+        - {x: 22, y: 21}
+        - {x: 22, y: 28}
+        - {x: 22, y: 28}
+        - {x: -22, y: 28}
+        - {x: -22, y: -28}
+        - {x: 18.5, y: -28}
+        - {x: 22, y: -20}
+        - {x: 22, y: 3}
+        - {x: 12.5, y: 12}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a2eae0af2331c439b5bc140c16e441
+      internalID: -1895029473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_34
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 201
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.5, y: -23}
+        - {x: -6.5, y: -25.5}
+        - {x: -18.5, y: 15}
+        - {x: -23.5, y: 1}
+        - {x: -1.5, y: 25.5}
+        - {x: 16.5, y: 13}
+        - {x: 23.5, y: 21}
+        - {x: 23.5, y: 25.5}
+        - {x: 22.5, y: 25.5}
+        - {x: -23.5, y: 25.5}
+        - {x: -23.5, y: -25.5}
+        - {x: 18.5, y: -25.5}
+        - {x: 23.5, y: -20}
+        - {x: 23.5, y: 3}
+        - {x: 12.5, y: 12}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318d4948d5320c94e91ecc3325920358
+      internalID: 1095598302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_35
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 193
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: -23}
+        - {x: -6.5, y: -29.5}
+        - {x: -18.5, y: 15}
+        - {x: -22, y: 1}
+        - {x: -1.5, y: 29.5}
+        - {x: 16.5, y: 13}
+        - {x: 22, y: 21}
+        - {x: 22, y: 29}
+        - {x: 22, y: 29.5}
+        - {x: -22, y: 29.5}
+        - {x: -22, y: -29.5}
+        - {x: 18.5, y: -29.5}
+        - {x: 22, y: -20}
+        - {x: 22, y: 3}
+        - {x: 12.5, y: 12}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb087f3e27e4d041823f8c2602835c2
+      internalID: 1302207973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_36
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 193
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: -23}
+        - {x: -6.5, y: -29.5}
+        - {x: -18.5, y: 15}
+        - {x: -22, y: 1}
+        - {x: -1.5, y: 29.5}
+        - {x: 16.5, y: 13}
+        - {x: 22, y: 21}
+        - {x: 22, y: 29}
+        - {x: 22, y: 29.5}
+        - {x: -22, y: 29.5}
+        - {x: -22, y: -29.5}
+        - {x: 18.5, y: -29.5}
+        - {x: 22, y: -20}
+        - {x: 22, y: 3}
+        - {x: 12.5, y: 12}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c1a30ea95ca84498d7c2fc536809c3
+      internalID: 44153689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_37
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 192
+        width: 54
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.5, y: -23}
+        - {x: -6.5, y: -30}
+        - {x: -18.5, y: 15}
+        - {x: -23.5, y: 1}
+        - {x: -1.5, y: 30}
+        - {x: 16.5, y: 13}
+        - {x: 23.5, y: 21}
+        - {x: 23.5, y: 29}
+        - {x: 22.5, y: 30}
+        - {x: -23.5, y: 30}
+        - {x: -23.5, y: -30}
+        - {x: 18.5, y: -30}
+        - {x: 23.5, y: -20}
+        - {x: 23.5, y: 3}
+        - {x: 12.5, y: 12}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f07b1e3a88e13b47a4b3822f578b16f
+      internalID: 1815799971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_38
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 196
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: -23}
+        - {x: -6.5, y: -28}
+        - {x: -18.5, y: 15}
+        - {x: -22, y: 1}
+        - {x: -1.5, y: 28}
+        - {x: 16.5, y: 13}
+        - {x: 22, y: 21}
+        - {x: 22, y: 28}
+        - {x: 22, y: 28}
+        - {x: -22, y: 28}
+        - {x: -22, y: -28}
+        - {x: 18.5, y: -28}
+        - {x: 22, y: -20}
+        - {x: 22, y: 3}
+        - {x: 12.5, y: 12}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71f1be5a4dddc04399860eb04ca7de1
+      internalID: -272834781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_39
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 196
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: -23}
+        - {x: -6.5, y: -28}
+        - {x: -18.5, y: 15}
+        - {x: -22, y: 1}
+        - {x: -1.5, y: 28}
+        - {x: 16.5, y: 13}
+        - {x: 22, y: 21}
+        - {x: 22, y: 28}
+        - {x: 22, y: 28}
+        - {x: -22, y: 28}
+        - {x: -22, y: -28}
+        - {x: 18.5, y: -28}
+        - {x: 22, y: -20}
+        - {x: 22, y: 3}
+        - {x: 12.5, y: 12}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be714254efd188f4a81a99ecc249431d
+      internalID: 2093382087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_40
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 129
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: -23}
+        - {x: -6.5, y: -29.5}
+        - {x: -18.5, y: 15}
+        - {x: -22, y: 1}
+        - {x: -1.5, y: 29.5}
+        - {x: 16.5, y: 13}
+        - {x: 22, y: 21}
+        - {x: 22, y: 29}
+        - {x: 22, y: 29.5}
+        - {x: -22, y: 29.5}
+        - {x: -22, y: -29.5}
+        - {x: 18.5, y: -29.5}
+        - {x: 22, y: -20}
+        - {x: 22, y: 3}
+        - {x: 12.5, y: 12}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d14b41b6be2b5247b47e1fdd9141187
+      internalID: 1796776260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_41
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 129
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: -23}
+        - {x: -6.5, y: -29.5}
+        - {x: -18.5, y: 15}
+        - {x: -22, y: 1}
+        - {x: -1.5, y: 29.5}
+        - {x: 16.5, y: 13}
+        - {x: 22, y: 21}
+        - {x: 22, y: 29}
+        - {x: 22, y: 29.5}
+        - {x: -22, y: 29.5}
+        - {x: -22, y: -29.5}
+        - {x: 18.5, y: -29.5}
+        - {x: 22, y: -20}
+        - {x: 22, y: 3}
+        - {x: 12.5, y: 12}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ebc4ebce476b424cabf6c75913fbcd1
+      internalID: 364618565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_42
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 129
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: -23}
+        - {x: -6.5, y: -29.5}
+        - {x: -18.5, y: 15}
+        - {x: -22, y: 1}
+        - {x: -1.5, y: 29.5}
+        - {x: 16.5, y: 13}
+        - {x: 22, y: 21}
+        - {x: 22, y: 29}
+        - {x: 22, y: 29.5}
+        - {x: -22, y: 29.5}
+        - {x: -22, y: -29.5}
+        - {x: 18.5, y: -29.5}
+        - {x: 22, y: -20}
+        - {x: 22, y: 3}
+        - {x: 12.5, y: 12}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c231dda3bff70042aabbfca6cfee1e5
+      internalID: 394105146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_43
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 132
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: -23}
+        - {x: -6.5, y: -28}
+        - {x: -18.5, y: 15}
+        - {x: -22, y: 1}
+        - {x: -1.5, y: 28}
+        - {x: 16.5, y: 13}
+        - {x: 22, y: 21}
+        - {x: 22, y: 28}
+        - {x: 22, y: 28}
+        - {x: -22, y: 28}
+        - {x: -22, y: -28}
+        - {x: 18.5, y: -28}
+        - {x: 22, y: -20}
+        - {x: 22, y: 3}
+        - {x: 12.5, y: 12}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644ab84c578fb0440abe2ece5bfc6668
+      internalID: -211158234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_44
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 132
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: -23}
+        - {x: -6.5, y: -28}
+        - {x: -18.5, y: 15}
+        - {x: -22, y: 1}
+        - {x: -1.5, y: 28}
+        - {x: 16.5, y: 13}
+        - {x: 22, y: 21}
+        - {x: 22, y: 28}
+        - {x: 22, y: 28}
+        - {x: -22, y: 28}
+        - {x: -22, y: -28}
+        - {x: 18.5, y: -28}
+        - {x: 22, y: -20}
+        - {x: 22, y: 3}
+        - {x: 12.5, y: 12}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47540b2c7d033f442aa5124c6ae69b85
+      internalID: 685142807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_45
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 132
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: -23}
+        - {x: -6.5, y: -28}
+        - {x: -18.5, y: 15}
+        - {x: -22, y: 1}
+        - {x: -1.5, y: 28}
+        - {x: 16.5, y: 13}
+        - {x: 22, y: 21}
+        - {x: 22, y: 28}
+        - {x: 22, y: 28}
+        - {x: -22, y: 28}
+        - {x: -22, y: -28}
+        - {x: 18.5, y: -28}
+        - {x: 22, y: -20}
+        - {x: 22, y: 3}
+        - {x: 12.5, y: 12}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea678bd0f90cac644a7ff43e17d6af72
+      internalID: -1932736852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_46
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 132
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: -23}
+        - {x: -6.5, y: -28}
+        - {x: -18.5, y: 15}
+        - {x: -22, y: 1}
+        - {x: -1.5, y: 28}
+        - {x: 16.5, y: 13}
+        - {x: 22, y: 21}
+        - {x: 22, y: 28}
+        - {x: 22, y: 28}
+        - {x: -22, y: 28}
+        - {x: -22, y: -28}
+        - {x: 18.5, y: -28}
+        - {x: 22, y: -20}
+        - {x: 22, y: 3}
+        - {x: 12.5, y: 12}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c87f257d9d7a874694ec241bf5837f9
+      internalID: 1807638575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_47
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 135
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: -23}
+        - {x: -6.5, y: -26.5}
+        - {x: -18.5, y: 15}
+        - {x: -22, y: 1}
+        - {x: -1.5, y: 26.5}
+        - {x: 16.5, y: 13}
+        - {x: 22, y: 21}
+        - {x: 22, y: 26.5}
+        - {x: 22, y: 26.5}
+        - {x: -22, y: 26.5}
+        - {x: -22, y: -26.5}
+        - {x: 18.5, y: -26.5}
+        - {x: 22, y: -20}
+        - {x: 22, y: 3}
+        - {x: 12.5, y: 12}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31798a0460037e942915bfad7e8c0e7b
+      internalID: -407280252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_48
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 73
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: -23}
+        - {x: -6.5, y: -25.5}
+        - {x: -18.5, y: 15}
+        - {x: -22, y: 1}
+        - {x: -1.5, y: 25.5}
+        - {x: 16.5, y: 13}
+        - {x: 22, y: 21}
+        - {x: 22, y: 25.5}
+        - {x: 22, y: 25.5}
+        - {x: -22, y: 25.5}
+        - {x: -22, y: -25.5}
+        - {x: 18.5, y: -25.5}
+        - {x: 22, y: -20}
+        - {x: 22, y: 3}
+        - {x: 12.5, y: 12}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb37cf082dd83645877ec9023b69bfb
+      internalID: 1140796646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_49
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 73
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: -23}
+        - {x: -6.5, y: -25.5}
+        - {x: -18.5, y: 15}
+        - {x: -22, y: 1}
+        - {x: -1.5, y: 25.5}
+        - {x: 16.5, y: 13}
+        - {x: 22, y: 21}
+        - {x: 22, y: 25.5}
+        - {x: 22, y: 25.5}
+        - {x: -22, y: 25.5}
+        - {x: -22, y: -25.5}
+        - {x: 18.5, y: -25.5}
+        - {x: 22, y: -20}
+        - {x: 22, y: 3}
+        - {x: 12.5, y: 12}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91cebbe5442ea2444b7d7965c82857b3
+      internalID: 1733030761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_50
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 73
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: -23}
+        - {x: -6.5, y: -25.5}
+        - {x: -18.5, y: 15}
+        - {x: -22, y: 1}
+        - {x: -1.5, y: 25.5}
+        - {x: 16.5, y: 13}
+        - {x: 22, y: 21}
+        - {x: 22, y: 25.5}
+        - {x: 22, y: 25.5}
+        - {x: -22, y: 25.5}
+        - {x: -22, y: -25.5}
+        - {x: 18.5, y: -25.5}
+        - {x: 22, y: -20}
+        - {x: 22, y: 3}
+        - {x: 12.5, y: 12}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1527c3ad1b653ad449ca0baa8b0f09b2
+      internalID: 1500896560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_51
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 65
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: -23}
+        - {x: -6.5, y: -29.5}
+        - {x: -18.5, y: 15}
+        - {x: -22, y: 1}
+        - {x: -1.5, y: 29.5}
+        - {x: 16.5, y: 13}
+        - {x: 22, y: 21}
+        - {x: 22, y: 29}
+        - {x: 22, y: 29.5}
+        - {x: -22, y: 29.5}
+        - {x: -22, y: -29.5}
+        - {x: 18.5, y: -29.5}
+        - {x: 22, y: -20}
+        - {x: 22, y: 3}
+        - {x: 12.5, y: 12}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ddab4f6643b5a24fa947bba8c58cd14
+      internalID: 1361022460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_52
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 65
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: -23}
+        - {x: -6.5, y: -29.5}
+        - {x: -18.5, y: 15}
+        - {x: -22, y: 1}
+        - {x: -1.5, y: 29.5}
+        - {x: 16.5, y: 13}
+        - {x: 22, y: 21}
+        - {x: 22, y: 29}
+        - {x: 22, y: 29.5}
+        - {x: -22, y: 29.5}
+        - {x: -22, y: -29.5}
+        - {x: 18.5, y: -29.5}
+        - {x: 22, y: -20}
+        - {x: 22, y: 3}
+        - {x: 12.5, y: 12}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9f4a7038edd5841ae1f51d0be6c75d
+      internalID: 1907819861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_53
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 65
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: -23}
+        - {x: -6.5, y: -29.5}
+        - {x: -18.5, y: 15}
+        - {x: -22, y: 1}
+        - {x: -1.5, y: 29.5}
+        - {x: 16.5, y: 13}
+        - {x: 22, y: 21}
+        - {x: 22, y: 29}
+        - {x: 22, y: 29.5}
+        - {x: -22, y: 29.5}
+        - {x: -22, y: -29.5}
+        - {x: 18.5, y: -29.5}
+        - {x: 22, y: -20}
+        - {x: 22, y: 3}
+        - {x: 12.5, y: 12}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060402c4488c598439a19ce607f10048
+      internalID: -1194011349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_54
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 63
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: -23}
+        - {x: -6.5, y: -30}
+        - {x: -18.5, y: 15}
+        - {x: -22, y: 1}
+        - {x: -1.5, y: 30}
+        - {x: 16.5, y: 13}
+        - {x: 22, y: 21}
+        - {x: 22, y: 29}
+        - {x: 22, y: 30}
+        - {x: -22, y: 30}
+        - {x: -22, y: -30}
+        - {x: 18.5, y: -30}
+        - {x: 22, y: -20}
+        - {x: 22, y: 3}
+        - {x: 12.5, y: 12}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f64f40b0f928f449b2514ba60a7e02
+      internalID: -1603514682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_55
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 63
+        width: 46
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: -23}
+        - {x: -6.5, y: -30}
+        - {x: -18.5, y: 15}
+        - {x: -23, y: 1}
+        - {x: -1.5, y: 30}
+        - {x: 16.5, y: 13}
+        - {x: 23, y: 21}
+        - {x: 23, y: 29}
+        - {x: 22.5, y: 30}
+        - {x: -23, y: 30}
+        - {x: -23, y: -30}
+        - {x: 18.5, y: -30}
+        - {x: 23, y: -20}
+        - {x: 23, y: 3}
+        - {x: 12.5, y: 12}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe0d2b87f969004f9ac7a7c5f3c61de
+      internalID: -983083793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_56
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 0
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.5, y: -23}
+        - {x: -6.5, y: -30}
+        - {x: -18.5, y: 15}
+        - {x: -23.5, y: 1}
+        - {x: -1.5, y: 30}
+        - {x: 16.5, y: 13}
+        - {x: 23.5, y: 21}
+        - {x: 23.5, y: 29}
+        - {x: 22.5, y: 30}
+        - {x: -23.5, y: 30}
+        - {x: -23.5, y: -30}
+        - {x: 18.5, y: -30}
+        - {x: 23.5, y: -20}
+        - {x: 23.5, y: 3}
+        - {x: 12.5, y: 12}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759eeebd793e866418bc3f4a7571b7f7
+      internalID: -632953922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_57
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 0
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: -23}
+        - {x: -6.5, y: -30}
+        - {x: -18.5, y: 15}
+        - {x: -22, y: 1}
+        - {x: -1.5, y: 30}
+        - {x: 16.5, y: 13}
+        - {x: 22, y: 21}
+        - {x: 22, y: 29}
+        - {x: 22, y: 30}
+        - {x: -22, y: 30}
+        - {x: -22, y: -30}
+        - {x: 18.5, y: -30}
+        - {x: 22, y: -20}
+        - {x: 22, y: 3}
+        - {x: 12.5, y: 12}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48cae6f64bffc848b03649bdc2ae8f1
+      internalID: 2030871889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_58
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 0
+        width: 49
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.5, y: -23}
+        - {x: -6.5, y: -30}
+        - {x: -18.5, y: 15}
+        - {x: -23.5, y: 1}
+        - {x: -1.5, y: 30}
+        - {x: 16.5, y: 13}
+        - {x: 23.5, y: 21}
+        - {x: 23.5, y: 29}
+        - {x: 22.5, y: 30}
+        - {x: -23.5, y: 30}
+        - {x: -23.5, y: -30}
+        - {x: 18.5, y: -30}
+        - {x: 23.5, y: -20}
+        - {x: 23.5, y: 3}
+        - {x: 12.5, y: 12}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27780c22aa46c1f449186078ff5f68ad
+      internalID: -1485929445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_59
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 6
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: -23}
+        - {x: -6.5, y: -27}
+        - {x: -18.5, y: 15}
+        - {x: -22, y: 1}
+        - {x: -1.5, y: 27}
+        - {x: 16.5, y: 13}
+        - {x: 22, y: 21}
+        - {x: 22, y: 27}
+        - {x: 22, y: 27}
+        - {x: -22, y: 27}
+        - {x: -22, y: -27}
+        - {x: 18.5, y: -27}
+        - {x: 22, y: -20}
+        - {x: 22, y: 3}
+        - {x: 12.5, y: 12}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532ac9adc1d20f94fbe3135d4c7548c2
+      internalID: 1288324410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_60
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 2
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: -23}
+        - {x: -6.5, y: -29}
+        - {x: -18.5, y: 15}
+        - {x: -23, y: 1}
+        - {x: -1.5, y: 29}
+        - {x: 16.5, y: 13}
+        - {x: 23, y: 21}
+        - {x: 23, y: 29}
+        - {x: 22.5, y: 29}
+        - {x: -23, y: 29}
+        - {x: -23, y: -29}
+        - {x: 18.5, y: -29}
+        - {x: 23, y: -20}
+        - {x: 23, y: 3}
+        - {x: 12.5, y: 12}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0cacba3c598d9438259ac172a791f9
+      internalID: -75170433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_61
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 6
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: -23}
+        - {x: -6.5, y: -27}
+        - {x: -18.5, y: 15}
+        - {x: -22, y: 1}
+        - {x: -1.5, y: 27}
+        - {x: 16.5, y: 13}
+        - {x: 22, y: 21}
+        - {x: 22, y: 27}
+        - {x: 22, y: 27}
+        - {x: -22, y: 27}
+        - {x: -22, y: -27}
+        - {x: 18.5, y: -27}
+        - {x: 22, y: -20}
+        - {x: 22, y: 3}
+        - {x: 12.5, y: 12}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d929eb4632f16c84bbd72d6c4a1b34cb
+      internalID: -1154922959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_62
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 6
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: -23}
+        - {x: -6.5, y: -27}
+        - {x: -18.5, y: 15}
+        - {x: -22, y: 1}
+        - {x: -1.5, y: 27}
+        - {x: 16.5, y: 13}
+        - {x: 22, y: 21}
+        - {x: 22, y: 27}
+        - {x: 22, y: 27}
+        - {x: -22, y: 27}
+        - {x: -22, y: -27}
+        - {x: 18.5, y: -27}
+        - {x: 22, y: -20}
+        - {x: 22, y: 3}
+        - {x: 12.5, y: 12}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3e5bbe4ae0b9642923e8b7ebe15b1d
+      internalID: -1020577085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_63
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 7
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.5, y: -23}
+        - {x: -6.5, y: -26.5}
+        - {x: -18.5, y: 15}
+        - {x: -23.5, y: 1}
+        - {x: -1.5, y: 26.5}
+        - {x: 16.5, y: 13}
+        - {x: 23.5, y: 21}
+        - {x: 23.5, y: 26.5}
+        - {x: 22.5, y: 26.5}
+        - {x: -23.5, y: 26.5}
+        - {x: -23.5, y: -26.5}
+        - {x: 18.5, y: -26.5}
+        - {x: 23.5, y: -20}
+        - {x: 23.5, y: 3}
+        - {x: 12.5, y: 12}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943a2ab19f4dc8647941b9e6efa0bbc6
+      internalID: -1433568207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Amulets 64x64 Outline Fade_62: -1020577085
+      Amulets 64x64 Outline Fade_40: 1796776260
+      Amulets 64x64 Outline Fade_46: 1807638575
+      Amulets 64x64 Outline Fade_55: -983083793
+      Amulets 64x64 Outline Fade_6: -53418429
+      Amulets 64x64 Outline Fade_10: -475142677
+      Amulets 64x64 Outline Fade_48: 1140796646
+      Amulets 64x64 Outline Fade_63: -1433568207
+      Amulets 64x64 Outline Fade_43: -211158234
+      Amulets 64x64 Outline Fade_23: -299758745
+      Amulets 64x64 Outline Fade_27: -905210361
+      Amulets 64x64 Outline Fade_61: -1154922959
+      Amulets 64x64 Outline Fade_11: -1677946744
+      Amulets 64x64 Outline Fade_14: 258675725
+      Amulets 64x64 Outline Fade_44: 685142807
+      Amulets 64x64 Outline Fade_0: -1417779081
+      Amulets 64x64 Outline Fade_12: 1728139154
+      Amulets 64x64 Outline Fade_50: 1500896560
+      Amulets 64x64 Outline Fade_20: -1056601640
+      Amulets 64x64 Outline Fade_24: 956388408
+      Amulets 64x64 Outline Fade_38: -272834781
+      Amulets 64x64 Outline Fade_28: 2052364406
+      Amulets 64x64 Outline Fade_5: 1817980601
+      Amulets 64x64 Outline Fade_31: 1821145957
+      Amulets 64x64 Outline Fade_29: -1615372117
+      Amulets 64x64 Outline Fade_2: -1217842663
+      Amulets 64x64 Outline Fade_9: -397801479
+      Amulets 64x64 Outline Fade_53: -1194011349
+      Amulets 64x64 Outline Fade_32: 94762470
+      Amulets 64x64 Outline Fade_59: 1288324410
+      Amulets 64x64 Outline Fade_30: 79053236
+      Amulets 64x64 Outline Fade_45: -1932736852
+      Amulets 64x64 Outline Fade_4: 1183565820
+      Amulets 64x64 Outline Fade_60: -75170433
+      Amulets 64x64 Outline Fade_41: 364618565
+      Amulets 64x64 Outline Fade_8: -2047828058
+      Amulets 64x64 Outline Fade_15: -1410881569
+      Amulets 64x64 Outline Fade_25: -2102610767
+      Amulets 64x64 Outline Fade_7: -978514645
+      Amulets 64x64 Outline Fade_19: -2038777598
+      Amulets 64x64 Outline Fade_16: -1948653859
+      Amulets 64x64 Outline Fade_21: -1109606259
+      Amulets 64x64 Outline Fade_51: 1361022460
+      Amulets 64x64 Outline Fade_26: -1435743417
+      Amulets 64x64 Outline Fade_52: 1907819861
+      Amulets 64x64 Outline Fade_13: -2131077153
+      Amulets 64x64 Outline Fade_34: 1095598302
+      Amulets 64x64 Outline Fade_17: 2025449531
+      Amulets 64x64 Outline Fade_56: -632953922
+      Amulets 64x64 Outline Fade_49: 1733030761
+      Amulets 64x64 Outline Fade_54: -1603514682
+      Amulets 64x64 Outline Fade_57: 2030871889
+      Amulets 64x64 Outline Fade_3: 1957755003
+      Amulets 64x64 Outline Fade_18: -917671350
+      Amulets 64x64 Outline Fade_33: -1895029473
+      Amulets 64x64 Outline Fade_39: 2093382087
+      Amulets 64x64 Outline Fade_58: -1485929445
+      Amulets 64x64 Outline Fade_42: 394105146
+      Amulets 64x64 Outline Fade_22: 64832269
+      Amulets 64x64 Outline Fade_36: 44153689
+      Amulets 64x64 Outline Fade_35: 1302207973
+      Amulets 64x64 Outline Fade_47: -407280252
+      Amulets 64x64 Outline Fade_1: 758926072
+      Amulets 64x64 Outline Fade_37: 1815799971
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
